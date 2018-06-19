@@ -1,0 +1,31 @@
+{
+  "name": "async-events",
+  "version": "1.0.0",
+  "description": "Async events framework",
+  "main": "async-events.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jribbens/async-events.git"
+  },
+  "keywords": [
+    "async",
+    "events"
+  ],
+  "author": "Jon Ribbens <jribbens@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jribbens/async-events/issues"
+  },
+  "homepage": "https://github.com/jribbens/async-events#readme",
+  "engines": {
+    "node": ">=7"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^5.2.0"
+  }
+}
