@@ -1,5 +1,5 @@
 {
-  "name": "async-events",
+  "name": "async-events-jr",
   "version": "1.0.0",
   "description": "Async events framework",
   "main": "async-events.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jribbens/async-events.git"
+    "url": "git+https://github.com/jribbens/async-events-jr.git"
   },
   "keywords": [
     "async",
@@ -17,9 +17,9 @@
   "author": "Jon Ribbens <jribbens@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jribbens/async-events/issues"
+    "url": "https://github.com/jribbens/async-events-jr/issues"
   },
-  "homepage": "https://github.com/jribbens/async-events#readme",
+  "homepage": "https://github.com/jribbens/async-events-jr#readme",
   "engines": {
     "node": ">=7"
   },

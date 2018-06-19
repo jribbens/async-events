@@ -7,7 +7,7 @@ use(require('chai-as-promised'))
 
 const AsyncEventEmitter = require('./async-events')
 
-describe('async-events.js', function () {
+describe('async-events-jr', function () {
   this.slow(200)
 
   async function testEmit (listeners, repeat) {

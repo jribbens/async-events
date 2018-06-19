@@ -60,7 +60,7 @@ completed.
 
 ## Usage
 
-    const AsyncEventEmitter = require('async-events')
+    const AsyncEventEmitter = require('async-events-jr')
 
     class Foo extends AsyncEventEmitter {
       ...
