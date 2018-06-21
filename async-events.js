@@ -23,7 +23,6 @@ class AsyncEventEmitter extends EventEmitter {
             if (value instanceof Promise) {
               promises.push(value.catch(reason => {
                 if (error === undefined) error = reason
-                return true
               }))
             }
           } catch (exc) {
